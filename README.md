@@ -156,8 +156,8 @@ plot_fig1()   # e.g., annual energy breakdown by glass scheme
 If you use this code before the paper is published, please cite this repository:
 
 ```
-Xu, B. (2023). Parametric study on thermal management system for the range of full (Tesla Model S)/compact-size (Tesla Model 3) electric vehicles.
-https://github.com/binxuAI/EV_TMS
+Zhao, L. (2026). Climate-dependent thermal regulation by electrochromic glazing extends electric vehicle driving range across global cities.
+https://github.com/LigeZhao/EC-Window-for-Electric-Vehicles
 ```
 
 ---
