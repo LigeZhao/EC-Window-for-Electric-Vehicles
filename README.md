@@ -166,4 +166,4 @@ https://github.com/LigeZhao/EC-Window-for-Electric-Vehicles
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-© 2025 Lige Zhao, Smart Building Lab, The Hong Kong University of Science and Technology (HKUST)
+© 2026 Lige Zhao, Smart Building Lab, The Hong Kong University of Science and Technology (HKUST)
