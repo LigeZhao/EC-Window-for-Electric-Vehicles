@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Simulation results (large data — not tracked in Git)
+simulation result/
+simulation result all/
+from server/
+
+# Weather data (download via download_epw.py)
+weather data/
+weather data all/
+*.epw
+
+# Parquet output files
+*.parquet
+
+# Development data (intermediate outputs, not part of reproducible pipeline)
+data/
+
+# IDE / OS
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+
+# Misc
+*.wav
+pics/
+conference/
+older version/
+NREL code/

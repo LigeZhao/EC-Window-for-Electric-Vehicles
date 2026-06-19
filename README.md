@@ -1,4 +1,3 @@
-# EC-Window-for-Electric-Vehicles
 # Smart Window Co-simulation Framework for EV Thermal Management
 
 **Code for:** *Climate-dependent thermal regulation by electrochromic glazing extends electric vehicle driving range across global cities*
